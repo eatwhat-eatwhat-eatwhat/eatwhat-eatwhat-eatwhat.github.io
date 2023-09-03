@@ -8,32 +8,42 @@ redirect_from:
   - /about.html
 ---
 
+
+    
 基本信息
 
-姓名
-性别
-学历
-生日
-籍贯
+姓名：王泽杨  
 
-A data-driven personal website
+性别：男  
+
+生日：2002.12.12  
+
+籍贯：河北省定州市  
+
+邮箱：2848604426@qq.com
+
+个人技能
 ======
-Like many other Jekyll-based GitHub Pages templates, academicpages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
+·熟悉c/c++的基本知识  
 
-Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's contee changes or even delete the repository and start over -- just be sure to save the markdown files! Finally, you can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
+·能够使用Java完成一些编程  
 
-Getting started
+·了解如何使用jdbc完成简单网页  
+
+·能够用hive清洗大量的数据  
+
+·熟悉常用的数据结构与算法
+
+
+
+学业情况
 ======
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this repository](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
+2017-2020   高中   定州市第二中学  
+2020-现在   大学   石家庄铁道大学 
 
-Site-wide configuration
+个人简介
 ------
-The main configuration file for the site is in the base directory in [_config.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_config.yml), which defines the content in the sidebars and other site-wide features. You will need to replace the default variables with ones about yourself and your site's github repository. The configuration file for the top menu is in [_data/navigation.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_data/navigation.yml). For example, if you don't have a portfolio or blog posts, you can remove those items from that navigation.yml file to remove them from the header. 
+我为人坦率，友善待人，与周围的同学相处的很好，学习上也很认真，追求上进，上课认真听讲，课后好好完成作业。因为平日里的生活总是三点一线，宿舍，教室，食堂，我很少外出走动。所以，接触的人比较少，性格偏内向，不太擅长与人交往。
 
 Create content & metadata
 ------
